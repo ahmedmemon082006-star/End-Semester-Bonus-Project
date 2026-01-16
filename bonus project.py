@@ -43,7 +43,7 @@ if st.button("Calculate"):
 
 
 
-# Here is the link for the calculator made above: http://192.168.100.108:8504/
+# Here is the link for the calculator made above: https://am2540194calculators.streamlit.app/
 
 
 
